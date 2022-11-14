@@ -1,0 +1,11 @@
+{
+  "name": "tarea01",
+  "version": "1.0.0",
+  "description": "Tarea 01 JavaScript basico de open bootcamp",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "author": "Diego-Fdez",
+  "license": "ISC"
+}
